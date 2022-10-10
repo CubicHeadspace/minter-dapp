@@ -1,5 +1,5 @@
 const contractAddress = "0xFBddE0f5702fae86b626990a9F9388fd7d56D518"; // Replace with your own contract address
-const chain = 'goerli'; // rinkeby, polygon, or ethereum
+const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Complex Minds Artists Group NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
